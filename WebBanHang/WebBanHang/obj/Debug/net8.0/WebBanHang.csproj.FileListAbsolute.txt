@@ -286,3 +286,969 @@ M:\2280607050_PhamAnhHao_Buoi3\WebBanHang\WebBanHang\bin\Debug\net8.0\runtimes\w
 M:\2280607050_PhamAnhHao_Buoi3\WebBanHang\WebBanHang\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 M:\2280607050_PhamAnhHao_Buoi3\WebBanHang\WebBanHang\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 M:\2280607050_PhamAnhHao_Buoi3\WebBanHang\WebBanHang\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+M:\web\WebBanHang\WebBanHang\obj\Debug\net8.0\WebBanHang.csproj.AssemblyReference.cache
+M:\web\WebBanHang\WebBanHang\obj\Debug\net8.0\WebBanHang.GeneratedMSBuildEditorConfig.editorconfig
+M:\web\WebBanHang\WebBanHang\obj\Debug\net8.0\WebBanHang.AssemblyInfoInputs.cache
+M:\web\WebBanHang\WebBanHang\obj\Debug\net8.0\WebBanHang.AssemblyInfo.cs
+M:\web\WebBanHang\WebBanHang\obj\Debug\net8.0\WebBanHang.csproj.CoreCompileInputs.cache
+M:\web\WebBanHang\WebBanHang\obj\Debug\net8.0\WebBanHang.MvcApplicationPartsAssemblyInfo.cache
+M:\web\WebBanHang\WebBanHang\obj\Debug\net8.0\WebBanHang.RazorAssemblyInfo.cache
+M:\web\WebBanHang\WebBanHang\obj\Debug\net8.0\WebBanHang.RazorAssemblyInfo.cs
+M:\web\WebBanHang\WebBanHang\obj\Debug\net8.0\WebBanHang.sourcelink.json
+M:\web\WebBanHang\WebBanHang\obj\Debug\net8.0\WebBanHang.dll
+M:\web\WebBanHang\WebBanHang\obj\Debug\net8.0\refint\WebBanHang.dll
+M:\web\WebBanHang\WebBanHang\obj\Debug\net8.0\WebBanHang.pdb
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\appsettings.Development.json
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\appsettings.json
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\WebBanHang.staticwebassets.runtime.json
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\WebBanHang.staticwebassets.endpoints.json
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\WebBanHang.exe
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\WebBanHang.deps.json
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\WebBanHang.runtimeconfig.json
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\WebBanHang.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\WebBanHang.pdb
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Azure.Core.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Azure.Identity.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Humanizer.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.Build.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Mono.TextTemplating.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Newtonsoft.Json.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\NuGet.Common.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\NuGet.Configuration.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\NuGet.Frameworks.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\NuGet.LibraryModel.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\NuGet.Packaging.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\NuGet.ProjectModel.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\NuGet.Protocol.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\NuGet.Versioning.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\System.ClientModel.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\System.CodeDom.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\System.Composition.Convention.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\System.Composition.Hosting.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\System.Composition.Runtime.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\System.Composition.TypedParts.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\System.Drawing.Common.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\System.Formats.Asn1.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\System.IO.Pipelines.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\System.Memory.Data.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\System.Runtime.Caching.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\System.Security.Permissions.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\System.Text.Json.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\System.Windows.Extensions.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\af\Humanizer.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\ar\Humanizer.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\az\Humanizer.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\bg\Humanizer.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\cs\Humanizer.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\da\Humanizer.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\de\Humanizer.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\el\Humanizer.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\es\Humanizer.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\fa\Humanizer.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\fr\Humanizer.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\he\Humanizer.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\hr\Humanizer.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\hu\Humanizer.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\hy\Humanizer.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\id\Humanizer.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\is\Humanizer.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\it\Humanizer.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\ja\Humanizer.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\ku\Humanizer.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\lv\Humanizer.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\mt\Humanizer.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\nb\Humanizer.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\nl\Humanizer.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\pl\Humanizer.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\pt\Humanizer.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\ro\Humanizer.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\ru\Humanizer.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\sk\Humanizer.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\sl\Humanizer.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\sr\Humanizer.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\sv\Humanizer.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\tr\Humanizer.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\uk\Humanizer.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\vi\Humanizer.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+M:\web\WebBanHang\WebBanHang\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+M:\web\WebBanHang\WebBanHang\obj\Debug\net8.0\scopedcss\bundle\WebBanHang.styles.css
+M:\web\WebBanHang\WebBanHang\obj\Debug\net8.0\scopedcss\projectbundle\WebBanHang.bundle.scp.css
+M:\web\WebBanHang\WebBanHang\obj\Debug\net8.0\staticwebassets.build.json
+M:\web\WebBanHang\WebBanHang\obj\Debug\net8.0\staticwebassets.development.json
+M:\web\WebBanHang\WebBanHang\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+M:\web\WebBanHang\WebBanHang\obj\Debug\net8.0\staticwebassets\msbuild.WebBanHang.Microsoft.AspNetCore.StaticWebAssets.props
+M:\web\WebBanHang\WebBanHang\obj\Debug\net8.0\staticwebassets\msbuild.WebBanHang.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+M:\web\WebBanHang\WebBanHang\obj\Debug\net8.0\staticwebassets\msbuild.build.WebBanHang.props
+M:\web\WebBanHang\WebBanHang\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebBanHang.props
+M:\web\WebBanHang\WebBanHang\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebBanHang.props
+M:\web\WebBanHang\WebBanHang\obj\Debug\net8.0\staticwebassets.pack.json
+M:\web\WebBanHang\WebBanHang\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+M:\web\WebBanHang\WebBanHang\obj\Debug\net8.0\WebBanHang.csproj.Up2Date
+M:\web\WebBanHang\WebBanHang\obj\Debug\net8.0\WebBanHang.genruntimeconfig.cache
+M:\web\WebBanHang\WebBanHang\obj\Debug\net8.0\ref\WebBanHang.dll
+M:\web\WebBanHang\WebBanHang\obj\Debug\net8.0\WebBanHang.MvcApplicationPartsAssemblyInfo.cs
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Embedded.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+M:\web\WebBanHang\WebBanHang\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\appsettings.Development.json
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\appsettings.json
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\WebBanHang.staticwebassets.endpoints.json
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\WebBanHang.staticwebassets.runtime.json
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\WebBanHang.exe
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\WebBanHang.deps.json
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\WebBanHang.runtimeconfig.json
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\WebBanHang.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\WebBanHang.pdb
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Azure.Core.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Azure.Identity.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Humanizer.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.Build.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\NuGet.Common.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\NuGet.Configuration.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\NuGet.LibraryModel.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\NuGet.Packaging.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\NuGet.ProjectModel.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\NuGet.Protocol.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\NuGet.Versioning.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\System.ClientModel.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\System.CodeDom.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\System.Memory.Data.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\System.Text.Json.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\af\Humanizer.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\ar\Humanizer.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\az\Humanizer.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\bg\Humanizer.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\cs\Humanizer.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\da\Humanizer.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\de\Humanizer.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\el\Humanizer.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\es\Humanizer.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\fa\Humanizer.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\fr\Humanizer.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\he\Humanizer.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\hr\Humanizer.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\hu\Humanizer.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\hy\Humanizer.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\id\Humanizer.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\is\Humanizer.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\it\Humanizer.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\ja\Humanizer.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\ku\Humanizer.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\lv\Humanizer.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\mt\Humanizer.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\nb\Humanizer.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\nl\Humanizer.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\pl\Humanizer.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\pt\Humanizer.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\ro\Humanizer.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\ru\Humanizer.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\sk\Humanizer.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\sl\Humanizer.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\sr\Humanizer.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\sv\Humanizer.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\tr\Humanizer.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\uk\Humanizer.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\vi\Humanizer.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\download\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\download\web\web\WebBanHang\WebBanHang\obj\Debug\net8.0\WebBanHang.csproj.AssemblyReference.cache
+D:\download\web\web\WebBanHang\WebBanHang\obj\Debug\net8.0\WebBanHang.GeneratedMSBuildEditorConfig.editorconfig
+D:\download\web\web\WebBanHang\WebBanHang\obj\Debug\net8.0\WebBanHang.AssemblyInfoInputs.cache
+D:\download\web\web\WebBanHang\WebBanHang\obj\Debug\net8.0\WebBanHang.AssemblyInfo.cs
+D:\download\web\web\WebBanHang\WebBanHang\obj\Debug\net8.0\WebBanHang.csproj.CoreCompileInputs.cache
+D:\download\web\web\WebBanHang\WebBanHang\obj\Debug\net8.0\WebBanHang.MvcApplicationPartsAssemblyInfo.cs
+D:\download\web\web\WebBanHang\WebBanHang\obj\Debug\net8.0\WebBanHang.MvcApplicationPartsAssemblyInfo.cache
+D:\download\web\web\WebBanHang\WebBanHang\obj\Debug\net8.0\WebBanHang.RazorAssemblyInfo.cache
+D:\download\web\web\WebBanHang\WebBanHang\obj\Debug\net8.0\WebBanHang.RazorAssemblyInfo.cs
+D:\download\web\web\WebBanHang\WebBanHang\obj\Debug\net8.0\WebBanHang.sourcelink.json
+D:\download\web\web\WebBanHang\WebBanHang\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\download\web\web\WebBanHang\WebBanHang\obj\Debug\net8.0\scopedcss\bundle\WebBanHang.styles.css
+D:\download\web\web\WebBanHang\WebBanHang\obj\Debug\net8.0\scopedcss\projectbundle\WebBanHang.bundle.scp.css
+D:\download\web\web\WebBanHang\WebBanHang\obj\Debug\net8.0\staticwebassets.build.json
+D:\download\web\web\WebBanHang\WebBanHang\obj\Debug\net8.0\staticwebassets.development.json
+D:\download\web\web\WebBanHang\WebBanHang\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\download\web\web\WebBanHang\WebBanHang\obj\Debug\net8.0\staticwebassets\msbuild.WebBanHang.Microsoft.AspNetCore.StaticWebAssets.props
+D:\download\web\web\WebBanHang\WebBanHang\obj\Debug\net8.0\staticwebassets\msbuild.WebBanHang.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\download\web\web\WebBanHang\WebBanHang\obj\Debug\net8.0\staticwebassets\msbuild.build.WebBanHang.props
+D:\download\web\web\WebBanHang\WebBanHang\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebBanHang.props
+D:\download\web\web\WebBanHang\WebBanHang\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebBanHang.props
+D:\download\web\web\WebBanHang\WebBanHang\obj\Debug\net8.0\staticwebassets.pack.json
+D:\download\web\web\WebBanHang\WebBanHang\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\download\web\web\WebBanHang\WebBanHang\obj\Debug\net8.0\WebBanHang.csproj.Up2Date
+D:\download\web\web\WebBanHang\WebBanHang\obj\Debug\net8.0\WebBanHang.dll
+D:\download\web\web\WebBanHang\WebBanHang\obj\Debug\net8.0\refint\WebBanHang.dll
+D:\download\web\web\WebBanHang\WebBanHang\obj\Debug\net8.0\WebBanHang.pdb
+D:\download\web\web\WebBanHang\WebBanHang\obj\Debug\net8.0\WebBanHang.genruntimeconfig.cache
+D:\download\web\web\WebBanHang\WebBanHang\obj\Debug\net8.0\ref\WebBanHang.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\appsettings.Development.json
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\WebBanHang.staticwebassets.endpoints.json
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\appsettings.json
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\WebBanHang.staticwebassets.runtime.json
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\WebBanHang.exe
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\WebBanHang.deps.json
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\WebBanHang.runtimeconfig.json
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\WebBanHang.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\WebBanHang.pdb
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Azure.Core.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Azure.Identity.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Humanizer.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.Build.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\NuGet.Common.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\NuGet.Configuration.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\NuGet.LibraryModel.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\NuGet.Packaging.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\NuGet.ProjectModel.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\NuGet.Protocol.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\NuGet.Versioning.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\System.ClientModel.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\System.CodeDom.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\System.Memory.Data.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\System.Text.Json.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\af\Humanizer.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\ar\Humanizer.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\az\Humanizer.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\bg\Humanizer.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\cs\Humanizer.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\da\Humanizer.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\de\Humanizer.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\el\Humanizer.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\es\Humanizer.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\fa\Humanizer.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\fr\Humanizer.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\he\Humanizer.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\hr\Humanizer.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\hu\Humanizer.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\hy\Humanizer.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\id\Humanizer.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\is\Humanizer.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\it\Humanizer.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\ja\Humanizer.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\ku\Humanizer.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\lv\Humanizer.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\mt\Humanizer.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\nb\Humanizer.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\nl\Humanizer.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\pl\Humanizer.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\pt\Humanizer.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\ro\Humanizer.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\ru\Humanizer.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\sk\Humanizer.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\sl\Humanizer.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\sr\Humanizer.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\sv\Humanizer.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\tr\Humanizer.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\uk\Humanizer.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\vi\Humanizer.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\obj\Debug\net8.0\WebBanHang.csproj.AssemblyReference.cache
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\obj\Debug\net8.0\WebBanHang.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\obj\Debug\net8.0\WebBanHang.AssemblyInfoInputs.cache
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\obj\Debug\net8.0\WebBanHang.AssemblyInfo.cs
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\obj\Debug\net8.0\WebBanHang.csproj.CoreCompileInputs.cache
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\obj\Debug\net8.0\WebBanHang.MvcApplicationPartsAssemblyInfo.cs
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\obj\Debug\net8.0\WebBanHang.MvcApplicationPartsAssemblyInfo.cache
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\obj\Debug\net8.0\WebBanHang.RazorAssemblyInfo.cache
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\obj\Debug\net8.0\WebBanHang.RazorAssemblyInfo.cs
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\obj\Debug\net8.0\WebBanHang.sourcelink.json
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\obj\Debug\net8.0\scopedcss\bundle\WebBanHang.styles.css
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\obj\Debug\net8.0\scopedcss\projectbundle\WebBanHang.bundle.scp.css
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\obj\Debug\net8.0\staticwebassets.build.json
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\obj\Debug\net8.0\staticwebassets.development.json
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\obj\Debug\net8.0\staticwebassets\msbuild.WebBanHang.Microsoft.AspNetCore.StaticWebAssets.props
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\obj\Debug\net8.0\staticwebassets\msbuild.WebBanHang.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\obj\Debug\net8.0\staticwebassets\msbuild.build.WebBanHang.props
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebBanHang.props
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebBanHang.props
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\obj\Debug\net8.0\staticwebassets.pack.json
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\obj\Debug\net8.0\WebBanHang.csproj.Up2Date
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\obj\Debug\net8.0\WebBanHang.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\obj\Debug\net8.0\refint\WebBanHang.dll
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\obj\Debug\net8.0\WebBanHang.pdb
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\obj\Debug\net8.0\WebBanHang.genruntimeconfig.cache
+D:\CodeSoEasy\LapTrinhWeb\Thực Hành LT WEB\web\web\web\WebBanHang\WebBanHang\obj\Debug\net8.0\ref\WebBanHang.dll

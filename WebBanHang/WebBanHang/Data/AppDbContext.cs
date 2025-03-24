@@ -1,8 +1,9 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore;
 using WebBanHang.Models;
 namespace WebBanHang.Data
 {
-    public class AppDbContext : DbContext
+    public class AppDbContext : IdentityDbContext<User>
     {
         public AppDbContext(DbContextOptions options) : base(options)
         {
@@ -14,10 +15,12 @@ namespace WebBanHang.Data
 
         public DbSet<ProductImage> ProductImages { get; set; }
 
+        public DbSet<Order> Orders { get; set; }
+
         /*public AppDbContext(DbContextOptions options) : base(options)
         {
         }*/
 
- 
+
     }
 }

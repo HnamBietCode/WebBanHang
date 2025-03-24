@@ -91,7 +91,4 @@ namespace WebBanHang.Migrations
         }
     }
 
-       git config --global --add safe.directory '///192.168.45.11/E04S
-1117/2280607050_PhamAnhHao_Buoi3'
-
 }

@@ -1,0 +1,37 @@
+﻿@* Areas/Admin/Views/Product/Index.cshtml *@
+@model IEnumerable<WebBanHang.Models.Product>
+
+@{
+    ViewData["Title"] = "Product Management";
+}
+
+<h1>Product Management</h1>
+
+<p>
+    <a asp-action="Add" class="btn btn-primary">Add New Product</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Price</th>
+            <th>Category</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => item.Name)</td>
+                <td>@Html.DisplayFor(modelItem => item.Price)</td>
+                <td>@Html.DisplayFor(modelItem => item.Category.Name)</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-warning">Edit</a>
+                    <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
