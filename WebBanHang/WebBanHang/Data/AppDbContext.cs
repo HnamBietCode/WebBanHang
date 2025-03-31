@@ -16,11 +16,7 @@ namespace WebBanHang.Data
         public DbSet<ProductImage> ProductImages { get; set; }
 
         public DbSet<Order> Orders { get; set; }
-
-        /*public AppDbContext(DbContextOptions options) : base(options)
-        {
-        }*/
-
+        public DbSet<OrderDetail> OrderDetails { get; set; }
 
     }
 }

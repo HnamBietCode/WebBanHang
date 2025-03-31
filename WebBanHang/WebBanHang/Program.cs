@@ -6,14 +6,20 @@ using WebBanHang.Repositories;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
+// 🟢 Thêm dịch vụ Session
+builder.Services.AddDistributedMemoryCache(); // Bộ nhớ tạm để lưu Session
+builder.Services.AddSession(options =>
+{
+    options.IdleTimeout = TimeSpan.FromMinutes(30); // Thời gian tồn tại của session
+    options.Cookie.HttpOnly = true; // Bảo mật cookie
+    options.Cookie.IsEssential = true; // Đảm bảo session hoạt động
+});
+
 builder.Services.AddControllersWithViews();
 
-// Cấu hình DbContext
 builder.Services.AddDbContext<AppDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("db")));
 
-// Cấu hình Identity với User và IdentityRole
 builder.Services.AddIdentity<User, IdentityRole>()
     .AddDefaultTokenProviders()
     .AddDefaultUI()
@@ -21,13 +27,11 @@ builder.Services.AddIdentity<User, IdentityRole>()
 
 builder.Services.AddRazorPages();
 
-// Đăng ký các repository
 builder.Services.AddScoped<IProductRepository, EFProductRepository>();
 builder.Services.AddScoped<ICategoryRepository, EFCategoryRepository>();
 
 var app = builder.Build();
 
-// Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
 {
     app.UseExceptionHandler("/Home/Error");
@@ -37,31 +41,30 @@ if (!app.Environment.IsDevelopment())
 app.UseHttpsRedirection();
 app.UseStaticFiles();
 
+builder.Services.AddSession();
+builder.Services.AddHttpContextAccessor();
+
+app.UseSession();
 app.UseRouting();
 
-// Thêm UseAuthentication trước UseAuthorization
 app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapRazorPages();
 
-// Định nghĩa route cho Areas
 app.MapControllerRoute(
     name: "areas",
     pattern: "{area:exists}/{controller=Home}/{action=Index}/{id?}");
 
-// Định nghĩa route mặc định
 app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}");
 
-// Tạo các vai trò và tài khoản Admin mặc định khi ứng dụng khởi động
 using (var scope = app.Services.CreateScope())
 {
     var roleManager = scope.ServiceProvider.GetRequiredService<RoleManager<IdentityRole>>();
     var userManager = scope.ServiceProvider.GetRequiredService<UserManager<User>>();
 
-    // Tạo các vai trò
     string[] roles = { "Admin", "User", "Manager" };
     foreach (var role in roles)
     {
@@ -71,7 +74,6 @@ using (var scope = app.Services.CreateScope())
         }
     }
 
-    // Tạo tài khoản Admin mặc định
     string adminEmail = "admin@example.com";
     string adminPassword = "Admin@123";
     var adminUser = await userManager.FindByEmailAsync(adminEmail);
@@ -83,7 +85,7 @@ using (var scope = app.Services.CreateScope())
             Email = adminEmail,
             FullName = "Admin User",
             DateOfBirth = DateTime.Now.AddYears(-30),
-            EmailConfirmed = true // Bỏ qua xác nhận email
+            EmailConfirmed = true
         };
         var result = await userManager.CreateAsync(adminUser, adminPassword);
         if (result.Succeeded)
@@ -92,7 +94,6 @@ using (var scope = app.Services.CreateScope())
         }
         else
         {
-            // Xử lý lỗi nếu tạo tài khoản thất bại
             foreach (var error in result.Errors)
             {
                 Console.WriteLine(error.Description);

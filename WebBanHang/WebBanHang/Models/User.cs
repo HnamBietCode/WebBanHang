@@ -1,6 +1,5 @@
 ﻿namespace WebBanHang.Models
 {
-    // Models/User.cs
     using Microsoft.AspNetCore.Identity;
 
     public class User : IdentityUser

@@ -1,4 +1,6 @@
-﻿namespace WebBanHang.Models
+﻿using Microsoft.AspNetCore.Identity;
+
+namespace WebBanHang.Models
 {
     public class Order
     {
@@ -8,5 +10,10 @@
         public DateTime OrderDate { get; set; }
         public decimal TotalAmount { get; set; }
         public string Status { get; set; }
+
+        public decimal TotalPrice { get; set; }
+        public string ShippingAddress { get; set; }
+        public string Notes { get; set; }
+        public List<OrderDetail> OrderDetails { get; set; }
     }
 }

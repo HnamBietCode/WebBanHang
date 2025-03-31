@@ -21,7 +21,7 @@ namespace WebBanHang.Controllers
             _context = context;
         }
 
-        [Authorize(Roles = "Admin")]
+        
         // GET: Products
         public async Task<IActionResult> Index()
         {

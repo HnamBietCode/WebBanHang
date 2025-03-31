@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CodeSoEasy\\LapTrinhWeb\\Thực Hành LT WEB\\web\\web\\web\\WebBanHang\\WebBanHang\\WebBanHang.csproj": {}
+    "D:\\CodeSoEasy\\LapTrinhWeb\\Thực Hành LT WEB\\WebBanHang\\WebBanHang\\WebBanHang\\WebBanHang.csproj": {}
   },
   "projects": {
-    "D:\\CodeSoEasy\\LapTrinhWeb\\Thực Hành LT WEB\\web\\web\\web\\WebBanHang\\WebBanHang\\WebBanHang.csproj": {
+    "D:\\CodeSoEasy\\LapTrinhWeb\\Thực Hành LT WEB\\WebBanHang\\WebBanHang\\WebBanHang\\WebBanHang.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CodeSoEasy\\LapTrinhWeb\\Thực Hành LT WEB\\web\\web\\web\\WebBanHang\\WebBanHang\\WebBanHang.csproj",
+        "projectUniqueName": "D:\\CodeSoEasy\\LapTrinhWeb\\Thực Hành LT WEB\\WebBanHang\\WebBanHang\\WebBanHang\\WebBanHang.csproj",
         "projectName": "WebBanHang",
-        "projectPath": "D:\\CodeSoEasy\\LapTrinhWeb\\Thực Hành LT WEB\\web\\web\\web\\WebBanHang\\WebBanHang\\WebBanHang.csproj",
+        "projectPath": "D:\\CodeSoEasy\\LapTrinhWeb\\Thực Hành LT WEB\\WebBanHang\\WebBanHang\\WebBanHang\\WebBanHang.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "D:\\CodeSoEasy\\LapTrinhWeb\\Thực Hành LT WEB\\web\\web\\web\\WebBanHang\\WebBanHang\\obj\\",
+        "outputPath": "D:\\CodeSoEasy\\LapTrinhWeb\\Thực Hành LT WEB\\WebBanHang\\WebBanHang\\WebBanHang\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 24.2\\Components\\Offline Packages",
